@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Project 5</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="menu_label">Menu Fragment</string>
+    <string name="coffee_label">Coffee Fragment</string>
+    <string name="order_coffee">Order Coffee</string>
+    <string name="previous">Previous</string>
+    <string name="show_coffee_cost">Cost: Show Coffee Cost</string>
+    <string name="place_order">Place Order</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="milk">Milk</string>
+    <string name="syrup">Syrup</string>
+    <string name="cream">Cream</string>
+    <string name="caramel">Caramel</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="running_total">$1.99</string>
+    <string name="order_donut">Order Donut</string>string>
+    <string name="select_donut_type">Select Donut Type</string>string>
+    <string name="start_dynamic_price">$0.00</string>
+    <string name="donut_type">No Donut Selected</string>
+    <string name="remove_from_cart">Remove from cart</string>
+    <string name="checkout">Checkout</string>
+    <string name="my_cart">My Cart</string>
+    <string name="dialog_message_item"> Delete item? </string>
+    <string name="dialog_title_item"> Delete Item</string>
+    <string name="store_order"> Store Order</string>
+    <string name="order_num"> Order Number: 10000</string>
+
+    <string name="hello_menu_fragment">Hello menu fragment</string>
+
+</resources>
